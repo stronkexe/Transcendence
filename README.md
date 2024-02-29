@@ -48,4 +48,4 @@
 <br />
 <h3>License</h3>
 
-`This project is licensed under the [MIT License](LICENSE), ensuring that it remains open and accessible to the community.`
+This project is licensed under the [MIT License](LICENSE), ensuring that it remains open and accessible to the community.
