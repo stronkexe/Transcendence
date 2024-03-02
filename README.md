@@ -1,7 +1,7 @@
 <h2 align="center">`Transcendence 🎮</h2>
 <div align="center">
 <h6>This project is a collaborative effort to create an engaging and feature-rich web application for online gaming and communication. It aims to provide a platform where users can interact in real-time, play games, and build a community.</h6>
-<img  width="700px" src="https://lh3.googleusercontent.com/proxy/bfK_haHq2-cK5E-c2AEmwJR0CtupGLOAksGHYD6j8mjtioN2aDfLAY5_DWkR3TgnEpgHr8hFa39XT9Om8ffWDq6Wm_pC4BxXqO4XVQ" />
+<img  width="700px" src="https://lh3.googleusercontent.com/proxy/_mjAZ5H0vyCFa4o157l9flaHkEJDIKeB4IxJ5Molfkiv7UVMEY725cEJJW3DbCCgKNqRxShh2t52ZAU932CaKCDvJ6fF02IlO7hf9g" />
 </div>
 <br />
 <h3>About the Project</h3>
